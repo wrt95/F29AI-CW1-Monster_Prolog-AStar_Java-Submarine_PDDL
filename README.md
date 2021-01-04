@@ -1,13 +1,13 @@
 This is the 1st Coursework for F29AI Artificial Intelligence and Intelligent Agents, 3rd year of Bsc Computer Science.
 This coursework consists of 3 parts, one written in Prolog, one in Java, and one in PDDL. 
 
-# Prolog: 
+#### Prolog: 
 A monster game. 
 
-# Java: 
+#### Java: 
 A* Search Algorithm on a grid. 
 
-# PDDL: 
+#### PDDL: 
 A Submarine domain with several problems. 
 
 The source code for this program has been encrypted due to the coursework being still used.
